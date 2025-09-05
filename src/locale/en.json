@@ -1,0 +1,120 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "submit": "Submit",
+    "close": "Close",
+    "loading": "Loading...",
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Information",
+    "yes": "Yes",
+    "no": "No",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "viewDetails": "View Details",
+    "current": "Current"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "products": "Products",
+    "orders": "Orders",
+    "analytics": "Analytics",
+    "help": "Help Center"
+  },
+  "userProfile": {
+    "title": "User Profile",
+    "editProfile": "Edit Profile",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "address": "Address",
+    "city": "City",
+    "state": "State / Province",
+    "zipCode": "ZIP / Postal Code",
+    "country": "Country",
+    "changePassword": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password"
+  },
+  "forms": {
+    "labels": {
+      "username": "Username",
+      "password": "Password",
+      "rememberMe": "Remember Me"
+    },
+    "placeholders": {
+      "enterFirstName": "Enter your first name",
+      "enterLastName": "Enter your last name",
+      "enterEmail": "Enter your email address"
+    },
+    "validation": {
+      "required": "This field is required",
+      "invalidEmail": "Please enter a valid email address",
+      "passwordTooShort": "Password must be at least 8 characters long",
+      "passwordsDoNotMatch": "Passwords do not match",
+      "invalidFormat": "The format is invalid"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {name}!",
+    "salesOverview": "Sales Overview",
+    "recentActivity": "Recent Activity",
+    "performanceMetrics": "Performance Metrics",
+    "monthlyRevenue": "Monthly Revenue",
+    "newUsers": "New Users This Week"
+  },
+  "product": {
+    "details": "Product Details",
+    "price": "Price",
+    "description": "Description",
+    "specifications": "Specifications",
+    "reviews": "Customer Reviews",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "addToCart": "Add to Cart",
+    "quantity": "Quantity"
+  },
+  "errors": {
+    "error404": "Page Not Found",
+    "error404Message": "Sorry, the page you are looking for does not exist.",
+    "error500": "Internal Server Error",
+    "error500Message": "Something went wrong on our end. Please try again later.",
+    "networkError": "Network Error",
+    "networkErrorMessage": "Could not connect to the server. Please check your internet connection.",
+    "unauthorized": "Unauthorized Access",
+    "unauthorizedMessage": "You do not have permission to view this page."
+  },
+  "settings": {
+    "account": "Account",
+    "notifications": "Notifications",
+    "appearance": "Appearance",
+    "security": "Security",
+    "language": "Language",
+    "theme": "Theme",
+    "lightMode": "Light",
+    "darkMode": "Dark",
+    "enablePush": "Enable push notifications",
+    "enableEmail": "Enable email notifications"
+  },
+  "footer": {
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "copyright": "© 2025 Your Company, Inc. All rights reserved."
+  }
+}
